@@ -1,7 +1,7 @@
-This repository contains API calls to book search API's (Open Library, Google Books, WorldCat and the Library of Congress) for Chicago Books For Women in Prison Project. This experiment was conducted to see how well each API performs, i.e. examining type of data provided by each API.
+This repository contains API calls to book search API's (Open Library, Google Books, WorldCat and the Library of Congress) for [Chicago Books For Women in Prison](https://chicagobwp.org/) Project. This experiment was conducted to see how well each API performs, i.e. examining type of data provided by each API.
 
 # Problem and Solution
-Chicago Books For Women in Prison receives many books as donations. It takes a lot of human power to organize them; entering books in the database so that they are searchable when a request is submitted. This is currently done by manually entering all the information. In order to speed up the process, the organization wants to scan bar code and filling some of the information automatically based on ISBN.
+[Chicago Books For Women in Prison](https://chicagobwp.org/) receives many books as donations. It takes a lot of human power to organize them; entering books in the database so that they are searchable when a request is submitted. This is currently done by manually entering all the information. In order to speed up the process, the organization wants to scan bar code and filling some of the information automatically based on ISBN.
 
 # Experiment
 ## Books
