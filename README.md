@@ -1,4 +1,3 @@
-#!/bin/bash
 This repository contains API calls to book search API's (Open Library, Google Books, WorldCat and the Library of Congress) for [Chicago Books For Women in Prison](https://chicagobwp.org/), a breakout project at [Chi Hack Night](https://chihacknight.org/). This experiment was conducted to see how well each API performs, i.e. examining type of data provided by each API.
 
 # Problems and Solutions
