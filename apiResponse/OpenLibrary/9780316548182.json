@@ -1,0 +1,210 @@
+{
+  "ISBN:9780316548182": {
+    "publishers": [
+      {
+        "name": "Little, Brown"
+      }
+    ],
+    "pagination": "638 p., [24] p. of plates :",
+    "identifiers": {
+      "openlibrary": [
+        "OL20748424M"
+      ],
+      "isbn_10": [
+        "0316545856",
+        "0316548189",
+        "0316548189",
+        "0316548189"
+      ],
+      "wikidata": [
+        "Q16196360"
+      ],
+      "goodreads": [
+        "318431",
+        "2493806"
+      ],
+      "librarything": [
+        "76776"
+      ]
+    },
+    "subtitle": "the autobiography of Nelson Mandela.",
+    "title": "Long walk to freedom",
+    "url": "https://openlibrary.org/books/OL20748424M/Long_walk_to_freedom",
+    "notes": "Includes index.\n\nAYB-0069",
+    "number_of_pages": 638,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/3892240-S.jpg",
+      "large": "https://covers.openlibrary.org/b/id/3892240-L.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/3892240-M.jpg"
+    },
+    "subject_times": [
+      {
+        "url": "https://openlibrary.org/subjects/time:1948-",
+        "name": "1948-"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/time:1948-1994",
+        "name": "1948-1994"
+      }
+    ],
+    "subject_places": [
+      {
+        "url": "https://openlibrary.org/subjects/place:south_africa",
+        "name": "South Africa"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/place:zululand",
+        "name": "Zululand"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/place:mozambique",
+        "name": "Mozambique"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/place:nigeria",
+        "name": "Nigeria"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/place:cape_town",
+        "name": "Cape Town"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/place:britain",
+        "name": "Britain"
+      }
+    ],
+    "subjects": [
+      {
+        "url": "https://openlibrary.org/subjects/biography",
+        "name": "Biography"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/politics_and_government",
+        "name": "Politics and government"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/presidents",
+        "name": "Presidents"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/african_national_congress",
+        "name": "African National Congress"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/civil_rights_workers",
+        "name": "Civil rights workers"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/political_prisoners",
+        "name": "Political prisoners"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/statesmen",
+        "name": "Statesmen"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/human_rights",
+        "name": "Human rights"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/mandela,_nelson,_1918-",
+        "name": "Mandela, Nelson, 1918-"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/apartheid",
+        "name": "Apartheid"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/guerilla_warfare",
+        "name": "Guerilla Warfare"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/accessible_book",
+        "name": "Accessible book"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/protected_daisy",
+        "name": "Protected DAISY"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/in_library",
+        "name": "In library"
+      }
+    ],
+    "subject_people": [
+      {
+        "url": "https://openlibrary.org/subjects/person:nelson_mandela_(1918-)",
+        "name": "Nelson Mandela (1918-)"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/person:p._w._botha",
+        "name": "P. W. Botha"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/person:f._w._de_klerk",
+        "name": "F. W. de Klerk"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/person:robert_mugabe",
+        "name": "Robert Mugabe"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/person:bill_clinton",
+        "name": "Bill Clinton"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/person:margaret_thatcher",
+        "name": "Margaret Thatcher"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/person:desmond_tutu",
+        "name": "Desmond Tutu"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/person:winston_churchill",
+        "name": "Winston Churchill"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/person:mahatma_gandhi",
+        "name": "Mahatma Gandhi"
+      }
+    ],
+    "key": "/books/OL20748424M",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL212510A/Nelson_Mandela",
+        "name": "Nelson Mandela"
+      }
+    ],
+    "publish_date": "1995",
+    "classifications": {
+      "dewey_decimal_class": [
+        "968.06/4/092"
+      ],
+      "lc_classifications": [
+        "DT1949.M35 A3 1994"
+      ]
+    },
+    "excerpts": [
+      {
+        "comment": "",
+        "text": "APART FROM LIFE, a strong constitution, and an abiding connection to the Thembu royal house, the only thing my father bestowed upon me at birth was a name, Rolihlahla.",
+        "first_sentence": true
+      }
+    ],
+    "publish_places": [
+      {
+        "name": "Boston"
+      }
+    ],
+    "ebooks": [
+      {
+        "checkedout": true,
+        "formats": {},
+        "preview_url": "https://archive.org/details/isbn_9780316874960_0",
+        "borrow_url": "https://openlibrary.org/books/OL20748424M/Long_walk_to_freedom/borrow",
+        "availability": "borrow"
+      }
+    ]
+  }
+}

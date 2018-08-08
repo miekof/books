@@ -1,0 +1,82 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "1PJv6KwN-PgC",
+   "etag": "LSJZ8zVsPfY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1PJv6KwN-PgC",
+   "volumeInfo": {
+    "title": "Cutting Through Spiritual Materialism",
+    "authors": [
+     "Chögyam Trungpa"
+    ],
+    "publisher": "Shambhala Publications",
+    "publishedDate": "2002",
+    "description": "In this beloved classic, Tibetan meditation master Chogyam Trungpa presents an overview of the spiritual path and warns of common mistakes along that path. He then offers a description of the true spiritual path and a broad outline of the Buddhist approach to spirituality.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781570629570"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1570629579"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1PJv6KwN-PgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1PJv6KwN-PgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=1PJv6KwN-PgC&printsec=frontcover&dq=isbn:9781570629570&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=1PJv6KwN-PgC&dq=isbn:9781570629570&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cutting_Through_Spiritual_Materialism.html?hl=&id=1PJv6KwN-PgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Cutting_Through_Spiritual_Materialism-sample-epub.acsm?id=1PJv6KwN-PgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1PJv6KwN-PgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In this beloved classic, Tibetan meditation master Chogyam Trungpa presents an overview of the spiritual path and warns of common mistakes along that path."
+   }
+  }
+ ]
+}

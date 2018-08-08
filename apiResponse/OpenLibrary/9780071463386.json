@@ -1,0 +1,84 @@
+{
+  "ISBN:9780071463386": {
+    "publishers": [
+      {
+        "name": "McGraw-Hill"
+      }
+    ],
+    "pagination": "p. cm.",
+    "subtitle": "mastering high-frequency grammar for Spanish proficiency--fast!",
+    "title": "Easy Spanish step-by-step",
+    "url": "https://openlibrary.org/books/OL3425930M/Easy_Spanish_step-by-step",
+    "classifications": {
+      "dewey_decimal_class": [
+        "468.2/421"
+      ],
+      "lc_classifications": [
+        "PC4112.5 .B74 2005"
+      ]
+    },
+    "notes": "Includes index.",
+    "identifiers": {
+      "lccn": [
+        "2005049557"
+      ],
+      "openlibrary": [
+        "OL3425930M"
+      ],
+      "isbn_10": [
+        "0071463380"
+      ],
+      "goodreads": [
+        "902702"
+      ],
+      "librarything": [
+        "717781"
+      ]
+    },
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/1080482-S.jpg",
+      "large": "https://covers.openlibrary.org/b/id/1080482-L.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/1080482-M.jpg"
+    },
+    "subjects": [
+      {
+        "url": "https://openlibrary.org/subjects/grammar",
+        "name": "Grammar"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/self-instruction",
+        "name": "Self-instruction"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/textbooks_for_foreign_speakers",
+        "name": "Textbooks for foreign speakers"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/spanish_language",
+        "name": "Spanish language"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/english",
+        "name": "English"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/internet_archive_wishlist",
+        "name": "Internet Archive Wishlist"
+      }
+    ],
+    "publish_date": "2005",
+    "key": "/books/OL3425930M",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL1435108A/Barbara_Bregstein",
+        "name": "Barbara Bregstein"
+      }
+    ],
+    "by_statement": "Barbara Bregstein.",
+    "publish_places": [
+      {
+        "name": "Chicago"
+      }
+    ]
+  }
+}

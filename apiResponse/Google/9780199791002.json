@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Ysu-ihRIR1oC",
+   "etag": "4YQByOkDo1c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ysu-ihRIR1oC",
+   "volumeInfo": {
+    "title": "Exercise for Mood and Anxiety",
+    "subtitle": "Proven Strategies for Overcoming Depression and Enhancing Well-Being",
+    "authors": [
+     "Michael Otto",
+     "Jasper Smits, Ph.D."
+    ],
+    "publisher": "OUP USA",
+    "publishedDate": "2011-07-28",
+    "description": "Exercise for Mood and Anxiety provides readers with step-by-step guidance on how to start and maintain an exercise program geared towards improving mood, with a particular emphasis on understanding the relationship between mood and motivation.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780199791002"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0199791007"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 235,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ysu-ihRIR1oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ysu-ihRIR1oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Ysu-ihRIR1oC&printsec=frontcover&dq=isbn:9780199791002&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Ysu-ihRIR1oC&dq=isbn:9780199791002&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Exercise_for_Mood_and_Anxiety.html?hl=&id=Ysu-ihRIR1oC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Exercise_for_Mood_and_Anxiety-sample-epub.acsm?id=Ysu-ihRIR1oC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ysu-ihRIR1oC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Exercise for Mood and Anxiety provides readers with step-by-step guidance on how to start and maintain an exercise program geared towards improving mood, with a particular emphasis on understanding the relationship between mood and ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+  "ISBN:9780962535307": {
+    "publishers": [
+      {
+        "name": "Hutchinson House"
+      }
+    ],
+    "pagination": "72 p. ;",
+    "identifiers": {
+      "lccn": [
+        "90080436"
+      ],
+      "openlibrary": [
+        "OL1895621M"
+      ],
+      "isbn_10": [
+        "0962535303"
+      ],
+      "oclc": [
+        "21409901"
+      ],
+      "goodreads": [
+        "3279934"
+      ],
+      "librarything": [
+        "2209187"
+      ]
+    },
+    "classifications": {
+      "lc_classifications": [
+        "MLCM 92/14298 (P)"
+      ]
+    },
+    "title": "The patience of metal",
+    "url": "https://openlibrary.org/books/OL1895621M/The_patience_of_metal",
+    "notes": "Poetry.",
+    "number_of_pages": 72,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/725886-S.jpg",
+      "large": "https://covers.openlibrary.org/b/id/725886-L.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/725886-M.jpg"
+    },
+    "publish_date": "1990",
+    "key": "/books/OL1895621M",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL590394A/Yvonne_Zipter",
+        "name": "Yvonne Zipter"
+      }
+    ],
+    "by_statement": "by Yvonne Zipter.",
+    "publish_places": [
+      {
+        "name": "Chicago"
+      }
+    ]
+  }
+}

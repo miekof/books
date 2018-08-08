@@ -1,0 +1,142 @@
+{
+  "ISBN:9780199791002": {
+    "publishers": [
+      {
+        "name": "Oxford University Press"
+      }
+    ],
+    "pagination": "235 p. ;",
+    "identifiers": {
+      "isbn_13": [
+        "9780199791002"
+      ],
+      "lccn": [
+        "2011010216"
+      ],
+      "openlibrary": [
+        "OL25077398M"
+      ]
+    },
+    "table_of_contents": [
+      {
+        "title": "About this book",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Exercise works for your mood",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Why exercise programs fail",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "The forest before the trees : the truth about motivation",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Directing your thoughts for exercise success",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Planning your exercise routine",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "The exercise prescription",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Enjoying yourself during exercise",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Rewarding yourself after exercise",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Diversifying your exercise routine",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Extending your achievements : an active and fit life.",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      }
+    ],
+    "title": "Exercise for mood and anxiety",
+    "url": "https://openlibrary.org/books/OL25077398M/Exercise_for_mood_and_anxiety",
+    "classifications": {
+      "dewey_decimal_class": [
+        "615.8/2"
+      ],
+      "lc_classifications": [
+        "BF521 .O88296 2011"
+      ]
+    },
+    "notes": "Includes bibliographical references and index.",
+    "number_of_pages": 235,
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL2664676A/Michael_W._Otto",
+        "name": "Michael W. Otto"
+      }
+    ],
+    "subjects": [
+      {
+        "url": "https://openlibrary.org/subjects/anxiety",
+        "name": "Anxiety"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/mood_(psychology)",
+        "name": "Mood (Psychology)"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/exercise_therapy",
+        "name": "Exercise therapy"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/psychological_aspects",
+        "name": "Psychological aspects"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/exercise",
+        "name": "Exercise"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/internet_archive_wishlist",
+        "name": "Internet Archive Wishlist"
+      }
+    ],
+    "publish_date": "2011",
+    "key": "/books/OL25077398M",
+    "by_statement": "Michael W. Otto, Jasper A.J. Smits",
+    "subtitle": "proven strategies for overcoming depression and enhancing well-being",
+    "publish_places": [
+      {
+        "name": "New York, NY"
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "ISBN:9781400200955": {
+    "publishers": [
+      {
+        "name": "Thomas Nelson"
+      }
+    ],
+    "pagination": "xii, 147 p. ;",
+    "identifiers": {
+      "lccn": [
+        "2008003397"
+      ],
+      "openlibrary": [
+        "OL22664992M"
+      ],
+      "isbn_13": [
+        "9781400200955"
+      ],
+      "isbn_10": [
+        "1400200954"
+      ],
+      "goodreads": [
+        "3445738"
+      ],
+      "librarything": [
+        "3112202"
+      ]
+    },
+    "table_of_contents": [
+      {
+        "title": "Can good come out of this situation?",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "No problem too great",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "The test of endurance",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "God has an answer for your need",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "The faith to stand",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Wait for God's timing",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "A change in attitude",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Solving problems through prayer",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Lessons learned from a rebel",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "God's purpose for adversity",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "How to find clear guidance",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Reaching your full potential",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "You have always been loved.",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      }
+    ],
+    "title": "How to let God solve your problems",
+    "url": "https://openlibrary.org/books/OL22664992M/How_to_let_God_solve_your_problems",
+    "classifications": {
+      "dewey_decimal_class": [
+        "248.8/6"
+      ],
+      "lc_classifications": [
+        "BV4599.5.P75 S73 2008"
+      ]
+    },
+    "number_of_pages": 147,
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL25524A/Charles_F._Stanley",
+        "name": "Charles F. Stanley"
+      }
+    ],
+    "subjects": [
+      {
+        "url": "https://openlibrary.org/subjects/religious_aspects_of_problem_solving",
+        "name": "Religious aspects of Problem solving"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/god",
+        "name": "God"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/internet_archive_wishlist",
+        "name": "Internet Archive Wishlist"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/problem_solving",
+        "name": "Problem solving"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/christianity",
+        "name": "Christianity"
+      }
+    ],
+    "publish_date": "2008",
+    "key": "/books/OL22664992M",
+    "by_statement": "Charles F. Stanley.",
+    "subtitle": "12 keys to a divine solution",
+    "publish_places": [
+      {
+        "name": "Nashville, Tenn"
+      }
+    ]
+  }
+}

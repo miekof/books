@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+  <titleInfo>
+    <title>Girl, wash your face</title>
+    <subTitle>stop believing the lies about who you are so you can become who you were meant to be</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Hollis, Rachel</namePart>
+    <namePart type="termsOfAddress">(Event planner)</namePart>
+    <role>
+      <roleTerm type="text">author.</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">biography</genre>
+  <genre authority="rdacontent">text</genre>
+  <genre authority="lcgft">Self-help publications.</genre>
+  <genre authority="lcgft">Autobiographies.</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">tnu</placeTerm>
+    </place>
+    <dateIssued encoding="marc">2018</dateIssued>
+    <copyrightDate encoding="marc">2018</copyrightDate>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <originInfo eventType="publication">
+    <place>
+      <placeTerm type="text">Nashville, Tennessee :</placeTerm>
+    </place>
+    <publisher>Nelson Books, an imprint of Thomas Nelson,</publisher>
+    <dateIssued>[2018]</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xvii, 220 pages ; 22 cm</extent>
+    <form type="media" authority="rdamedia">unmediated</form>
+    <form type="carrier" authority="rdacarrier">volume</form>
+  </physicalDescription>
+  <abstract type="Summary">Founder of the lifestyle website TheChicSite.com and CEO of her own media company, Rachel Hollis has created an online fan base by sharing tips for living a better life while fearlessly revealing the messiness of her own. Each chapter begins with a specific lie Hollis once believed that left her feeling overwhelmed, unworthy, or ready to give up. As a working mother, a former foster parent, and a woman who has dealt with insecurities about her body and relationships, she speaks with the insight and kindness of a BFF, helping women unpack the limiting mind-sets that destroy their self-confidence and keep them from moving forward. From her temporary obsession with marrying Matt Damon to a daydream involving hypnotic iguanas to her son's request that she buy a necklace to "be like the other moms," Hollis holds nothing back. With unflinching faith and tenacity, Hollis spurs other women to live with passion and hustle and to awaken their slumbering goals.</abstract>
+  <tableOfContents>Introduction: Hey girl, hey! -- The lie: Something else will make me happy -- The lie: I'll start tomorrow -- The lie: I'm not good enough -- The lie: I'm better than you -- The lie: Loving him is enough for me -- The lie: No is the final answer -- The lie: I'm bad at sex -- The lie: I don't know how to be a mom -- The lie: I'm not a good mom -- The lie: I should be further along by now -- The lie: Other people's kids are so much cleaner/better organized/more polite -- The lie: I need to make myself smaller -- The lie: I'm going to marry Matt Damon -- The lie: I'm a terrible writer -- The lie: I will never get past this -- The lie: I can't tell the truth -- The lie: I am defined by my weight -- The lie: I need a drink -- The lie: There's only one right way to be -- The lie: I need a hero.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Rachel Hollis.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart type="termsOfAddress">(Event planner)</namePart>
+      <namePart>Hollis, Rachel</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Christian women</topic>
+    <topic>Conduct of life</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Self-actualization (Psychology) in women</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Self-esteem in women</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Happiness</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Success</topic>
+  </subject>
+  <subject authority="lcshac">
+    <topic>Happiness</topic>
+  </subject>
+  <subject>
+    <topic>Christian women</topic>
+    <topic>Conduct of life</topic>
+  </subject>
+  <subject>
+    <topic>Happiness</topic>
+  </subject>
+  <subject>
+    <topic>Self-actualization (Psychology.)</topic>
+  </subject>
+  <subject>
+    <topic>Success</topic>
+  </subject>
+  <subject authority="bisacsh">
+    <topic>RELIGION</topic>
+    <topic>Christian Life</topic>
+    <topic>Women's Issues</topic>
+  </subject>
+  <subject authority="bisacsh">
+    <topic>RELIGION</topic>
+    <topic>Christian Life</topic>
+    <topic>Personal Growth</topic>
+  </subject>
+  <subject authority="bisacsh">
+    <topic>FAMILY &amp; RELATIONSHIPS</topic>
+    <topic>General</topic>
+  </subject>
+  <subject authority="fast">
+    <topic>Christian women</topic>
+    <topic>Conduct of life</topic>
+  </subject>
+  <subject authority="fast">
+    <topic>Happiness</topic>
+  </subject>
+  <subject authority="fast">
+    <topic>Self-actualization (Psychology)</topic>
+  </subject>
+  <subject authority="fast">
+    <topic>Success</topic>
+  </subject>
+  <classification authority="lcc">BV4527 .H658 2018</classification>
+  <classification authority="ddc" edition="23">248.843</classification>
+  <identifier type="isbn">9781400201655</identifier>
+  <identifier type="isbn">1400201659</identifier>
+  <identifier type="isbn" invalid="yes">9781400201662</identifier>
+  <identifier type="lccn">2017949726</identifier>
+  <identifier type="oclc">ocn993421591</identifier>
+  <recordInfo>
+    <descriptionStandard>rda</descriptionStandard>
+    <recordContentSource authority="marcorg">BTCTA</recordContentSource>
+    <recordCreationDate encoding="marc">170720</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20180718140049.0</recordChangeDate>
+    <recordIdentifier>19803059</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.6 using MARC21slim2MODS3-6.xsl
+				(Revision 1.117 2017/02/14)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9781400201655</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

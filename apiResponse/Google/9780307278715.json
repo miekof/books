@@ -1,0 +1,75 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "CHgJswEACAAJ",
+   "etag": "6O5rq6S1uw0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CHgJswEACAAJ",
+   "volumeInfo": {
+    "title": "Ravensbruck",
+    "subtitle": "Life and Death in Hitler's Concentration Camp for Women",
+    "authors": [
+     "Sarah Helm"
+    ],
+    "publisher": "Anchor Books",
+    "publishedDate": "2016-03-22",
+    "description": "A masterly and moving account of the most horrific hidden atrocity of World War II: Ravensbrück, the only Nazi concentration camp built for women On a sunny morning in May 1939 a phalanx of 867 women--housewives, doctors, opera singers, politicians, prostitutes--was marched through the woods fifty miles north of Berlin, driven on past a shining lake, then herded in through giant gates. Whipping and kicking them were scores of German women guards. Their destination was Ravensbrück, a concentration camp designed specifically for women by Heinrich Himmler, prime architect of the Holocaust. By the end of the war 130,000 women from more than twenty different European countries had been imprisoned there; among the prominent names were Geneviève de Gaulle, General de Gaulle's niece, and Gemma La Guardia Gluck, sister of the wartime mayor of New York. Only a small number of these women were Jewish; Ravensbrück was largely a place for the Nazis to eliminate other inferior beings--social outcasts, Gypsies, political enemies, foreign resisters, the sick, the disabled, and the \"mad.\" Over six years the prisoners endured beatings, torture, slave labor, starvation, and random execution. In the final months of the war, Ravensbrück became an extermination camp. Estimates of the final death toll by April 1945 have ranged from 30,000 to 90,000. For decades the story of Ravensbrück was hidden behind the Iron Curtain, and today it is still little known. Using testimony unearthed since the end of the Cold War and interviews with survivors who have never talked before, Sarah Helm has ventured into the heart of the camp, demonstrating for the reader in riveting detail how easily and quickly the unthinkable horror evolved. Far more than a catalog of atrocities, however, Ravensbrück is also a compelling account of what one survivor called \"the heroism, superhuman tenacity, and exceptional willpower to survive.\" For every prisoner whose strength failed, another found the will to resist through acts of self-sacrifice and friendship, as well as sabotage, protest, and escape. While the core of this book is told from inside the camp, the story also sheds new light on the evolution of the wider genocide, the impotence of the world to respond, and Himmler's final attempt to seek a separate peace with the Allies using the women of Ravensbrück as a bargaining chip. Chilling, inspiring, and deeply unsettling, Ravensbrück is a groundbreaking work of historical investigation. With rare clarity, it reminds us of the capacity of humankind both for bestial cruelty and for courage against all odds. From the Hardcover edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0307278719"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307278715"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 784,
+    "printType": "BOOK",
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CHgJswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CHgJswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=CHgJswEACAAJ&dq=isbn:9780307278715&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=CHgJswEACAAJ&dq=isbn:9780307278715&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ravensbruck.html?hl=&id=CHgJswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CHgJswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Originally published as: If this is a woman: the untold story of heroism and survival inside the Nazi&#39;s women-only concentration camp. London: Little, Brown, 2014."
+   }
+  }
+ ]
+}

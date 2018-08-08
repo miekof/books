@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "qLD7sgEACAAJ",
+   "etag": "OZRPo4nHSrg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qLD7sgEACAAJ",
+   "volumeInfo": {
+    "title": "The Ptsd Workbook: Simple, Effective Techniques for Overcoming Traumatic Stress Symptoms",
+    "authors": [
+     "Mary Beth Williams",
+     "Mary Beth Williams, PhD, Lcsw, Cts",
+     "Soili Poijula"
+    ],
+    "publishedDate": "2015-06-30",
+    "description": "In the third edition of the best-selling \"The PTSD Workbook, \"psychologists and trauma experts Mary Beth Williams and Soili Poijula offer readers the most effective tools available for treating post-traumatic stress disorder (PTSD). In this fully revised and updated workbook, readers will learn how to move past the trauma they have experienced; manage symptoms such as insomnia, anxiety, and flashbacks; and find important updates reflecting the new DSM-V definition of PTSD.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1626253706"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781626253704"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 376,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qLD7sgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qLD7sgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=qLD7sgEACAAJ&dq=isbn:9781626253704&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=qLD7sgEACAAJ&dq=isbn:9781626253704&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Ptsd_Workbook_Simple_Effective_Techn.html?hl=&id=qLD7sgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qLD7sgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In the third edition of the best-selling The PTSD Workbook, psychologists and trauma experts Mary Beth Williams and Soili Poijula offer readers the most effective tools available for treating post-traumatic stress disorder (PTSD)."
+   }
+  }
+ ]
+}

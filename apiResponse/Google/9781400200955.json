@@ -1,0 +1,82 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "LWyYDAEACAAJ",
+   "etag": "lzyym0NDOJw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LWyYDAEACAAJ",
+   "volumeInfo": {
+    "title": "How to Let God Solve Your Problems",
+    "subtitle": "12 Keys for Finding Clear Guidance in Life's Trials",
+    "authors": [
+     "Charles Stanley"
+    ],
+    "publisher": "Thomas Nelson",
+    "publishedDate": "2008-06-08",
+    "description": "“God, how did I get in this mess!?” Is that the cry of your heart? You may be in the midst of an emotional hurricane right now and wondering Can anything good come out of this situation? Or you may be stumbling through the aftermath of a physical or financial crisis, fearful that you’ll never get back on your feet. In How to Let God Solve Your Problems, Dr. Charles Stanley demonstrates how God allows times of trial for a number of reasons: To turn your attention back toward Him. To adjust your priorities. To purify and prepare you for greater service. To better form you into His image. To grant you the experience of His comfort. Whether your hardship is the result of sin, unwise choices, or simply the consequence of living in a fallen world, God still has a plan for your life. He is aware of your circumstances, He has not forgotten His promises, and He will guide you through your difficulty to victory!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1400200954"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781400200955"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LWyYDAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LWyYDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=LWyYDAEACAAJ&dq=isbn:9781400200955&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=LWyYDAEACAAJ&dq=isbn:9781400200955&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Let_God_Solve_Your_Problems.html?hl=&id=LWyYDAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LWyYDAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In How to Let God Solve Your Problems, Dr. Charles Stanley demonstrates how God allows times of trial for a number of reasons: To turn your attention back toward Him. To adjust your priorities. To purify and prepare you for greater service."
+   }
+  }
+ ]
+}

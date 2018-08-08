@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+  <titleInfo>
+    <nonSort xml:space="preserve">The  </nonSort>
+    <title>Merriam-Webster dictionary</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Merriam-Webster, Inc</namePart>
+    <role>
+      <roleTerm type="text">issuing body.</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">dictionary</genre>
+  <genre authority="rdacontent">text</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">mau</placeTerm>
+    </place>
+    <dateIssued encoding="marc">2016</dateIssued>
+    <copyrightDate encoding="marc">2016</copyrightDate>
+    <edition>New edition.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <originInfo eventType="publication">
+    <place>
+      <placeTerm type="text">Springfield, Massachusetts :</placeTerm>
+    </place>
+    <publisher>Merriam-Webster, Incorporated,</publisher>
+    <dateIssued>[2016]</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>17a, 939 pages ; 18 cm</extent>
+    <form type="media" authority="rdamedia">unmediated</form>
+    <form type="carrier" authority="rdacarrier">volume</form>
+  </physicalDescription>
+  <note>Includes appendices on foreign words &amp; phrases, biographical names, and geographical names.</note>
+  <subject authority="lcsh">
+    <topic>English language</topic>
+    <genre>Dictionaries</genre>
+  </subject>
+  <classification authority="lcc">PE1628 .M353 2016</classification>
+  <classification authority="ddc" edition="23">423</classification>
+  <identifier type="isbn">9780877792956 (paperback)</identifier>
+  <identifier type="isbn">087779295X (paperback)</identifier>
+  <identifier type="isbn">9780606385022 (hardcover)</identifier>
+  <identifier type="isbn">0606385029 (hardcover)</identifier>
+  <identifier type="lccn">2016299921</identifier>
+  <identifier type="oclc">ocn921867715</identifier>
+  <recordInfo>
+    <descriptionStandard>rda</descriptionStandard>
+    <recordContentSource authority="marcorg">YDXCP</recordContentSource>
+    <recordCreationDate encoding="marc">160921</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20160921124730.0</recordChangeDate>
+    <recordIdentifier>19283679</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.6 using MARC21slim2MODS3-6.xsl
+				(Revision 1.117 2017/02/14)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780877792956</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

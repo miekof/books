@@ -1,0 +1,79 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "A-65ngEACAAJ",
+   "etag": "Ekzeab9ybi8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/A-65ngEACAAJ",
+   "volumeInfo": {
+    "title": "Stolen",
+    "subtitle": "The True Story of a Sex Trafficking Survivor",
+    "authors": [
+     "Katariina PhD Rosenblatt",
+     "Cecil Murphey"
+    ],
+    "publisher": "Revell",
+    "publishedDate": "2014-10-07",
+    "description": "Sex trafficking is currently a hot news topic, but it is not a new problem or just a problem in \"other\" countries. Every year, an estimated 300,000 American children are at risk of being lured into the sex trade, some as young as eight years old. It is thought that up to 90 percent of victims are never rescued. Stolen is the true story of one survivor who escaped--more than once. First recruited while staying with her family at a hotel in Miami Beach, Katariina Rosenblatt was already a lonely and abused young girl who was yearning to be loved. She fell into the hands of a confident young woman who pretended friendship but slowly lured her into a child prostitution ring. For years afterward, a cycle of false friendship, threats, drugs, and violence kept her trapped. As Kat shares her harrowing experiences, readers will quickly realize the frightening truth that these terrible things could have happened to any child--a neighbor, a niece, a friend, a sister, a daughter. But beyond that, they will see that there is real hope for the victims of sex trafficking. Stolen is more than a warning. It is a celebration of survival that will inspire.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0800723457"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780800723453"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=A-65ngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=A-65ngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=A-65ngEACAAJ&dq=isbn:9780800723453&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=A-65ngEACAAJ&dq=isbn:9780800723453&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Stolen.html?hl=&id=A-65ngEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=A-65ngEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Stolen is the true story of one survivor who escaped--more than once. First recruited while staying with her family at a hotel in Miami Beach, Katariina Rosenblatt was already a lonely and abused young girl who was yearning to be loved."
+   }
+  }
+ ]
+}

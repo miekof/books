@@ -1,0 +1,140 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "UaEg_ujTKEcC",
+   "etag": "rGdyKDZuAbw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UaEg_ujTKEcC",
+   "volumeInfo": {
+    "title": "Feeling Good",
+    "subtitle": "The New Mood Therapy",
+    "authors": [
+     "David D. Burns"
+    ],
+    "publisher": "Harper Collins",
+    "publishedDate": "1999-10-01",
+    "description": "The good news is that anxiety, guilt, pessimism, procrastination, low self-esteem, and other \"black holes\" of depression can be cured without drugs. In Feeling Good, eminent psychiatrist, David D. Burns, M.D., outlines the remarkable, scientifically proven techniques that will immediately lift your spirits and help you develop a positive outlook on life. Now, in this updated edition, Dr. Burns adds an All-New Consumer′s Guide To Anti-depressant Drugs as well as a new introduction to help answer your questions about the many options available for treating depression. - Recognise what causes your mood swings - Nip negative feelings in the bud - Deal with guilt - Handle hostility and criticism - Overcome addiction to love and approval - Build self-esteem - Feel good everyday",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0380810336"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780380810338"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 736,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 73,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UaEg_ujTKEcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UaEg_ujTKEcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=UaEg_ujTKEcC&printsec=frontcover&dq=isbn:9780380810338&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=UaEg_ujTKEcC&dq=isbn:9780380810338&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Feeling_Good.html?hl=&id=UaEg_ujTKEcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UaEg_ujTKEcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Now, in this updated edition, Dr. Burns adds an All-New Consumer′s Guide To Anti-depressant Drugs as well as a new introduction to help answer your questions about the many options available for treating depression."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bOuvBgAAQBAJ",
+   "etag": "SdJQk3qZLqI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bOuvBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Feeling Good",
+    "subtitle": "100 Ways To Feel Better Every Day",
+    "authors": [
+     "Marianne Jacobbi"
+    ],
+    "publisher": "Ceridian Corporation",
+    "publishedDate": "2005-02-05",
+    "description": "Không nội dung nào được cung cấp",
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 124,
+    "printType": "BOOK",
+    "categories": [
+     "Cognitive therapy"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 12,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bOuvBgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bOuvBgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "vi",
+    "previewLink": "http://books.google.com/books?id=bOuvBgAAQBAJ&dq=isbn:9780380810338&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=bOuvBgAAQBAJ&dq=isbn:9780380810338&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Feeling_Good.html?hl=&id=bOuvBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bOuvBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Không nội dung nào được cung cấp"
+   }
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+{
+  "ISBN:9780553384284": {
+    "publishers": [
+      {
+        "name": "Bantam Books"
+      }
+    ],
+    "pagination": "383 p. ;",
+    "identifiers": {
+      "lccn": [
+        "2008270147"
+      ],
+      "openlibrary": [
+        "OL16729662M"
+      ],
+      "isbn_13": [
+        "9780553384284"
+      ],
+      "isbn_10": [
+        "0553384287"
+      ],
+      "librarything": [
+        "4451"
+      ],
+      "goodreads": [
+        "14995"
+      ]
+    },
+    "classifications": {
+      "lc_classifications": [
+        "PS3561.O55 O33 2004"
+      ]
+    },
+    "title": "Odd Thomas",
+    "url": "https://openlibrary.org/books/OL16729662M/Odd_Thomas",
+    "number_of_pages": 383,
+    "subjects": [
+      {
+        "url": "https://openlibrary.org/subjects/in_library",
+        "name": "In library"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/psychological_fiction",
+        "name": "Psychological fiction"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/deserts",
+        "name": "Deserts"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/accessible_book",
+        "name": "Accessible book"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/novela_psicológica",
+        "name": "Novela psicológica"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/fiction",
+        "name": "Fiction"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/jóvenes_(hombres)",
+        "name": "Jóvenes (Hombres)"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/desiertos",
+        "name": "Desiertos"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/popular_print_disabled_books",
+        "name": "Popular Print Disabled Books"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/horror_tales",
+        "name": "Horror tales"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/cuentos_de_amor",
+        "name": "Cuentos de amor"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/thriller",
+        "name": "Thriller"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/internet_archive_wishlist",
+        "name": "Internet Archive Wishlist"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/cooks",
+        "name": "Cooks"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/assassins",
+        "name": "Assassins"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/asesinos",
+        "name": "Asesinos"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/young_men",
+        "name": "Young men"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/mediums",
+        "name": "Mediums"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/cocineros",
+        "name": "Cocineros"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/overdrive",
+        "name": "OverDrive"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/suspense",
+        "name": "Suspense"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/novela_de_terror",
+        "name": "Novela de terror"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/protected_daisy",
+        "name": "Protected DAISY"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/ficción",
+        "name": "Ficción"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/odd_thomas_(fictitious_character)",
+        "name": "Odd Thomas (Fictitious character)"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/murderers",
+        "name": "Murderers"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/love_stories",
+        "name": "Love stories"
+      }
+    ],
+    "publish_date": "2006",
+    "key": "/books/OL16729662M",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL26237A/Dean_Ray_Koontz",
+        "name": "Dean Ray Koontz"
+      }
+    ],
+    "by_statement": "Dean Koontz.",
+    "publish_places": [
+      {
+        "name": "New York, N.Y"
+      }
+    ]
+  }
+}

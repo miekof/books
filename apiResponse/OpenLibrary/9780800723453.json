@@ -1,0 +1,48 @@
+{
+  "ISBN:9780800723453": {
+    "publishers": [
+      {
+        "name": "Revell"
+      }
+    ],
+    "title": "Stolen",
+    "url": "https://openlibrary.org/books/OL25630658M/Stolen",
+    "identifiers": {
+      "isbn_13": [
+        "9780800723453"
+      ],
+      "openlibrary": [
+        "OL25630658M"
+      ]
+    },
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/7305281-S.jpg",
+      "large": "https://covers.openlibrary.org/b/id/7305281-L.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/7305281-M.jpg"
+    },
+    "subjects": [
+      {
+        "url": "https://openlibrary.org/subjects/internet_archive_wishlist",
+        "name": "Internet Archive Wishlist"
+      }
+    ],
+    "publish_date": "2014",
+    "key": "/books/OL25630658M",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL7228207A/Katariina_Rosenblatt",
+        "name": "Katariina Rosenblatt"
+      },
+      {
+        "url": "https://openlibrary.org/authors/OL2631559A/Cecil_Murphey",
+        "name": "Cecil Murphey"
+      }
+    ],
+    "subject_times": [
+      {
+        "url": "https://openlibrary.org/subjects/time:true_story_of_a_sex_trafficking_survivor",
+        "name": "True story of a sex trafficking survivor"
+      }
+    ]
+  }
+}

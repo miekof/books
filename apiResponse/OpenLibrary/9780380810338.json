@@ -1,0 +1,105 @@
+{
+  "ISBN:9780380810338": {
+    "publishers": [
+      {
+        "name": "Avon Books"
+      }
+    ],
+    "pagination": "xxxii, 706 p. :",
+    "identifiers": {
+      "lccn": [
+        "91092428"
+      ],
+      "openlibrary": [
+        "OL19020654M"
+      ],
+      "isbn_10": [
+        "0380810336"
+      ],
+      "oclc": [
+        "42712412"
+      ],
+      "librarything": [
+        "1484684"
+      ],
+      "goodreads": [
+        "46674"
+      ]
+    },
+    "subtitle": "the new mood therapy",
+    "title": "Feeling good",
+    "url": "https://openlibrary.org/books/OL19020654M/Feeling_good",
+    "notes": "Includes bibliographical references (p. 688-691)and index.",
+    "number_of_pages": 706,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/8110661-S.jpg",
+      "large": "https://covers.openlibrary.org/b/id/8110661-L.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/8110661-M.jpg"
+    },
+    "subjects": [
+      {
+        "url": "https://openlibrary.org/subjects/accessible_book",
+        "name": "Accessible book"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/cognitive_therapy",
+        "name": "Cognitive therapy"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/depresión_mental",
+        "name": "Depresión mental"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/depression",
+        "name": "Depression"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/mental_depression",
+        "name": "Mental Depression"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/popular_works",
+        "name": "Popular works"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/protected_daisy",
+        "name": "Protected DAISY"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/terapia_cognoscitiva",
+        "name": "Terapia cognoscitiva"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/thérapeutique_cognitive",
+        "name": "Thérapeutique cognitive"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/in_library",
+        "name": "In library"
+      }
+    ],
+    "publish_date": "1999",
+    "key": "/books/OL19020654M",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL838068A/David_D._Burns",
+        "name": "David D. Burns"
+      }
+    ],
+    "by_statement": "David D. Burns ; preface by Aaron T. Beck.",
+    "publish_places": [
+      {
+        "name": "New York"
+      }
+    ],
+    "ebooks": [
+      {
+        "checkedout": true,
+        "formats": {},
+        "preview_url": "https://archive.org/details/feelinggoodnew1999burn",
+        "borrow_url": "https://openlibrary.org/books/OL19020654M/Feeling_good/borrow",
+        "availability": "borrow"
+      }
+    ]
+  }
+}

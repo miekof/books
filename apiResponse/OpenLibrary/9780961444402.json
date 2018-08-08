@@ -1,0 +1,95 @@
+{
+  "ISBN:9780961444402": {
+    "publishers": [
+      {
+        "name": "Prison-Ashram Project"
+      }
+    ],
+    "pagination": "xviii, 317 p. :",
+    "identifiers": {
+      "lccn": [
+        "94126488"
+      ],
+      "openlibrary": [
+        "OL1151945M"
+      ],
+      "isbn_10": [
+        "0961444401"
+      ],
+      "librarything": [
+        "8259216"
+      ],
+      "goodreads": [
+        "167610"
+      ]
+    },
+    "subtitle": "a guide for getting free",
+    "title": "We're all doing time",
+    "url": "https://openlibrary.org/books/OL1151945M/We're_all_doing_time",
+    "classifications": {
+      "dewey_decimal_class": [
+        "291.4/4/08692"
+      ],
+      "lc_classifications": [
+        "BL624 .L69 1987"
+      ]
+    },
+    "number_of_pages": 317,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/725075-S.jpg",
+      "large": "https://covers.openlibrary.org/b/id/725075-L.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/725075-M.jpg"
+    },
+    "subject_places": [
+      {
+        "url": "https://openlibrary.org/subjects/place:united_states",
+        "name": "United States"
+      }
+    ],
+    "subjects": [
+      {
+        "url": "https://openlibrary.org/subjects/prisoners",
+        "name": "Prisoners"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/religious_life",
+        "name": "Religious life"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/spiritual_life",
+        "name": "Spiritual life"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/in_library",
+        "name": "In library"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/protected_daisy",
+        "name": "Protected DAISY"
+      }
+    ],
+    "publish_date": "1987",
+    "key": "/books/OL1151945M",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL39309A/Bo_Lozoff",
+        "name": "Bo Lozoff"
+      }
+    ],
+    "by_statement": "Bo Lozoff.",
+    "publish_places": [
+      {
+        "name": "[Durham, N.C.]"
+      }
+    ],
+    "ebooks": [
+      {
+        "checkedout": false,
+        "formats": {},
+        "preview_url": "https://archive.org/details/werealldoing_lozo_2009_000_8326026",
+        "borrow_url": "https://openlibrary.org/books/OL1151945M/We're_all_doing_time/borrow",
+        "availability": "borrow"
+      }
+    ]
+  }
+}

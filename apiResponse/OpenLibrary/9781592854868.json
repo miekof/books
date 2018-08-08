@@ -1,0 +1,52 @@
+{
+  "ISBN:9781592854868": {
+    "publishers": [
+      {
+        "name": "Hazelden"
+      }
+    ],
+    "identifiers": {
+      "openlibrary": [
+        "OL12379608M"
+      ],
+      "isbn_13": [
+        "9781592854868"
+      ],
+      "isbn_10": [
+        "1592854869"
+      ],
+      "oclc": [
+        "184925036"
+      ],
+      "goodreads": [
+        "2801670"
+      ],
+      "librarything": [
+        "5318267"
+      ]
+    },
+    "subtitle": "Avoiding Relapse Through Self-Awareness and Right Action",
+    "title": "12 Stupid Things That Mess Up Recovery",
+    "url": "https://openlibrary.org/books/OL12379608M/12_Stupid_Things_That_Mess_Up_Recovery",
+    "number_of_pages": 128,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/2957605-S.jpg",
+      "large": "https://covers.openlibrary.org/b/id/2957605-L.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/2957605-M.jpg"
+    },
+    "subjects": [
+      {
+        "url": "https://openlibrary.org/subjects/internet_archive_wishlist",
+        "name": "Internet Archive Wishlist"
+      }
+    ],
+    "publish_date": "March 15, 2008",
+    "key": "/books/OL12379608M",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL3889528A/Allen_Berger_Ph.D.",
+        "name": "Allen Berger Ph.D."
+      }
+    ]
+  }
+}

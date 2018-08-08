@@ -1,0 +1,78 @@
+{
+  "ISBN:9781570629570": {
+    "publishers": [
+      {
+        "name": "Shambhala"
+      }
+    ],
+    "identifiers": {
+      "openlibrary": [
+        "OL8697747M"
+      ],
+      "isbn_13": [
+        "9781570629570"
+      ],
+      "isbn_10": [
+        "1570629579"
+      ],
+      "oclc": [
+        "50853938"
+      ],
+      "goodreads": [
+        "295000"
+      ],
+      "librarything": [
+        "6123"
+      ]
+    },
+    "weight": "12 ounces",
+    "title": "Cutting Through Spiritual Materialism",
+    "url": "https://openlibrary.org/books/OL8697747M/Cutting_Through_Spiritual_Materialism",
+    "number_of_pages": 256,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/817673-S.jpg",
+      "large": "https://covers.openlibrary.org/b/id/817673-L.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/817673-M.jpg"
+    },
+    "subjects": [
+      {
+        "url": "https://openlibrary.org/subjects/buddhism",
+        "name": "Buddhism"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/in_library",
+        "name": "In library"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/spiritual_life",
+        "name": "Spiritual life"
+      }
+    ],
+    "publish_date": "October 22, 2002",
+    "key": "/books/OL8697747M",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL363720A/Chögyam_Trungpa",
+        "name": "Chögyam Trungpa"
+      }
+    ],
+    "excerpts": [
+      {
+        "comment": "",
+        "text": "The following series of talks was given in Boulder, Colorado in the fall of 1970 and the spring of 1971.",
+        "first_sentence": true
+      },
+      {
+        "comment": "",
+        "text": "The following series of talks was given in Boulder, Colorado in the fall of 1970 and the spring of 1971."
+      }
+    ],
+    "ebooks": [
+      {
+        "formats": {},
+        "preview_url": "https://archive.org/details/cuttingthroughsp00trun_947",
+        "availability": "restricted"
+      }
+    ]
+  }
+}

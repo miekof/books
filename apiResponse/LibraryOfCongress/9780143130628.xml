@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+  <titleInfo>
+    <nonSort xml:space="preserve">The  </nonSort>
+    <title>horse dancer</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Moyes, Jojo</namePart>
+    <namePart type="date">1969-</namePart>
+    <role>
+      <roleTerm type="text">author.</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="rdacontent">text</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <dateIssued encoding="marc">2017</dateIssued>
+    <copyrightDate encoding="marc">2009</copyrightDate>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <originInfo eventType="publication">
+    <place>
+      <placeTerm type="text">New York, New York :</placeTerm>
+    </place>
+    <publisher>Penguin Books,</publisher>
+    <dateIssued>2017.</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>444 pages ; 22 cm</extent>
+    <form type="media" authority="rdamedia">unmediated</form>
+    <form type="carrier" authority="rdacarrier">volume</form>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Jojo Moyes.</note>
+  <subject authority="lcsh">
+    <topic>Interpersonal relations</topic>
+    <genre>Fiction</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Teenage girls</topic>
+    <genre>Fiction</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Horses</topic>
+    <genre>Fiction</genre>
+  </subject>
+  <classification authority="lcc">PR6113.O94 H67 2017</classification>
+  <classification authority="ddc" edition="23">823/.92</classification>
+  <relatedItem type="otherFormat" otherType="Online version:" displayLabel="Online version:">
+    <titleInfo>
+      <title>Horse dancer</title>
+    </titleInfo>
+    <name>
+      <namePart>Moyes, Jojo, 1969- author.</namePart>
+    </name>
+    <originInfo>
+      <publisher>New York, New York : Penguin Books, 2017</publisher>
+    </originInfo>
+    <identifier type="local">(DLC) 2016040337</identifier>
+  </relatedItem>
+  <identifier type="isbn">9780143130628 (paperback)</identifier>
+  <identifier type="isbn" invalid="yes">9781524704445 (ebook)</identifier>
+  <identifier type="lccn">2016034218</identifier>
+  <recordInfo>
+    <descriptionStandard>rda</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">160830</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20170619182024.0</recordChangeDate>
+    <recordIdentifier>19254058</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.6 using MARC21slim2MODS3-6.xsl
+				(Revision 1.117 2017/02/14)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780143130628</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

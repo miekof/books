@@ -1,0 +1,74 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "0E4vAAAAYAAJ",
+   "etag": "irdkvSvjYOo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0E4vAAAAYAAJ",
+   "volumeInfo": {
+    "title": "We're All Doing Time",
+    "subtitle": "A Guide for Getting Free",
+    "authors": [
+     "Bo Lozoff"
+    ],
+    "publisher": "Human Kindness Foundation",
+    "publishedDate": "1985",
+    "description": "Bo Lozoff is the director of Human Kindness Foundation and its internationally acclaimed Prison-Ashram Project. His writings, workshops, and tapes have helped countless people transform their lives into sacred practice even in some of our worst prisons -- prisons of selfishness, fear, anger, and addiction as well as bars and steel.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X030121476"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0E4vAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0E4vAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0E4vAAAAYAAJ&dq=isbn:9780961444402&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=0E4vAAAAYAAJ&dq=isbn:9780961444402&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/We_re_All_Doing_Time.html?hl=&id=0E4vAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0E4vAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Bo Lozoff is the director of Human Kindness Foundation and its internationally acclaimed Prison-Ashram Project."
+   }
+  }
+ ]
+}

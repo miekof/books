@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zs:searchretrieveresponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberofrecords>0</zs:numberofrecords>
+  <zs:echoedsearchretrieverequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>bath.isbn=9781484084939</zs:query>
+    <zs:startrecord>1</zs:startrecord>
+    <zs:maximumrecords>1</zs:maximumrecords>
+    <zs:recordpacking>xml</zs:recordpacking>
+    <zs:recordschema>mods</zs:recordschema>
+  </zs:echoedsearchretrieverequest>
+</zs:searchretrieveresponse>

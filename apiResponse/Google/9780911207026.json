@@ -1,0 +1,107 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "PrTHAgAAQBAJ",
+   "etag": "uiOfNH30dHs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PrTHAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Feelings Buried Alive Never Die",
+    "subtitle": "",
+    "authors": [
+     "Prepress Staff"
+    ],
+    "publisher": "Olympus Publishing",
+    "publishedDate": "2014-02-01",
+    "description": "Karol Truman provides a comprehensive and enlightening resource for getting in touch with unresolved feelings which, she explains, can distort not only happiness but also health and well-being. Leaving no emotion unnamed, and in fact listing around 750 labels for feelings, Truman helps identify problem areas, and offers a \"script\" to help process the feelings, replacing the negative feeling with a new, positive outlook. A chapter on the possible emotions below the surface in various physical ailments gives the reader plenty to work with on a deep healing level. FEELINGS BURIED ALIVE NEVER DIE combines a supportive, common-sense, results-oriented approach to a problem that is widespread and that can stop people from living fully.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780911207026"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0911207023"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 299,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 8,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PrTHAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PrTHAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=PrTHAgAAQBAJ&printsec=frontcover&dq=isbn:9780911207026&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=PrTHAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-PrTHAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=PrTHAgAAQBAJ&rdid=book-PrTHAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Feelings_Buried_Alive_Never_Die-sample-epub.acsm?id=PrTHAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Feelings_Buried_Alive_Never_Die-sample-pdf.acsm?id=PrTHAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PrTHAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "FEELINGS BURIED ALIVE NEVER DIE combines a supportive, common-sense, results-oriented approach to a problem that is widespread and that can stop people from living fully."
+   }
+  }
+ ]
+}

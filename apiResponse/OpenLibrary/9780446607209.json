@@ -1,0 +1,86 @@
+{
+  "ISBN:9780446607209": {
+    "publishers": [
+      {
+        "name": "Warner Books"
+      }
+    ],
+    "pagination": "372 p. ;",
+    "identifiers": {
+      "isbn_13": [
+        "9780446607209"
+      ],
+      "openlibrary": [
+        "OL24382023M"
+      ],
+      "isbn_10": [
+        "0446607207"
+      ],
+      "oclc": [
+        "41880695"
+      ]
+    },
+    "classifications": {
+      "dewey_decimal_class": [
+        "818.5"
+      ],
+      "lc_classifications": [
+        "PS3569.H3927 T4 1999"
+      ]
+    },
+    "title": "Tell me your dreams",
+    "url": "https://openlibrary.org/books/OL24382023M/Tell_me_your_dreams",
+    "notes": "\"Warner vision books.\"\n\nIncludes bibliographical references.",
+    "number_of_pages": 372,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/6633071-S.jpg",
+      "large": "https://covers.openlibrary.org/b/id/6633071-L.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/6633071-M.jpg"
+    },
+    "subjects": [
+      {
+        "url": "https://openlibrary.org/subjects/trials_(murder)",
+        "name": "Trials (Murder)"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/fiction",
+        "name": "Fiction"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/accessible_book",
+        "name": "Accessible book"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/protected_daisy",
+        "name": "Protected DAISY"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/in_library",
+        "name": "In library"
+      }
+    ],
+    "publish_date": "1999",
+    "key": "/books/OL24382023M",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL225246A/Sidney_Sheldon",
+        "name": "Sidney Sheldon"
+      }
+    ],
+    "by_statement": "Sidney Sheldon",
+    "publish_places": [
+      {
+        "name": "New York"
+      }
+    ],
+    "ebooks": [
+      {
+        "checkedout": true,
+        "formats": {},
+        "preview_url": "https://archive.org/details/tellmeyourdreamsshel00shel",
+        "borrow_url": "https://openlibrary.org/books/OL24382023M/Tell_me_your_dreams/borrow",
+        "availability": "borrow"
+      }
+    ]
+  }
+}

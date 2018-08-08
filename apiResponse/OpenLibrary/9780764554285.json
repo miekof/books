@@ -1,0 +1,80 @@
+{
+  "ISBN:9780764554285": {
+    "publishers": [
+      {
+        "name": "Wiley Pub."
+      }
+    ],
+    "pagination": "xxiv, 330 p. :",
+    "identifiers": {
+      "lccn": [
+        "2002108114"
+      ],
+      "openlibrary": [
+        "OL23062333M"
+      ],
+      "isbn_10": [
+        "076455428X"
+      ],
+      "librarything": [
+        "1013416"
+      ],
+      "goodreads": [
+        "974852"
+      ]
+    },
+    "classifications": {
+      "dewey_decimal_class": [
+        "646.7/24"
+      ],
+      "lc_classifications": [
+        "TT970 .S64 2002"
+      ]
+    },
+    "title": "Haircutting for dummies",
+    "url": "https://openlibrary.org/books/OL23062333M/Haircutting_for_dummies",
+    "notes": "Includes index.",
+    "number_of_pages": 330,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/8028718-S.jpg",
+      "large": "https://covers.openlibrary.org/b/id/8028718-L.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/8028718-M.jpg"
+    },
+    "subjects": [
+      {
+        "url": "https://openlibrary.org/subjects/haircutting",
+        "name": "Haircutting"
+      }
+    ],
+    "publish_date": "2002",
+    "key": "/books/OL23062333M",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL225071A/J._Elaine_Spear",
+        "name": "J. Elaine Spear"
+      }
+    ],
+    "by_statement": "by J. Elaine Spear.",
+    "excerpts": [
+      {
+        "comment": "",
+        "text": "When my good friend Ling Moon first came to the United States from China, she was overwhelmed by the number of hair colors and textures that dotted the American landscape.",
+        "first_sentence": true
+      }
+    ],
+    "publish_places": [
+      {
+        "name": "New York, NY"
+      }
+    ],
+    "ebooks": [
+      {
+        "checkedout": false,
+        "formats": {},
+        "preview_url": "https://archive.org/details/haircuttingfordu00spea",
+        "borrow_url": "https://openlibrary.org/books/OL23062333M/Haircutting_for_dummies/borrow",
+        "availability": "borrow"
+      }
+    ]
+  }
+}

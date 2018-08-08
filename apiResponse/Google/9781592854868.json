@@ -1,0 +1,82 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "W4k2mAEACAAJ",
+   "etag": "DmeeQPfkamk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W4k2mAEACAAJ",
+   "volumeInfo": {
+    "title": "12 Stupid Things That Mess Up Recovery",
+    "subtitle": "Avoiding Relapse through Self-Awareness and Right Action",
+    "authors": [
+     "Allen Berger"
+    ],
+    "publisher": "Hazelden Publishing",
+    "publishedDate": "2008-02-11",
+    "description": "Concise advice on hunting down the personal culprits that sabotage sobriety and personal happiness. To grow in recovery, we must grow up emotionally. This means getting honest with ourselves and facing up to the self-defeating thoughts and actions that put our sobriety at risk. Although there are as many ways to mess up recovery as there are alcoholics and addicts, some general themes exist, which includeconfusing self-concern with selfishnessnot making amendsusing the program to try to become perfectnot getting help for relationship troublesbelieving that life should be easyIn simple, down-to-earth language, Allen Berger explores the twelve most commonly confronted beliefs and attitudes that can sabotage recovery. He then provides tools for working through these problems in daily life. This useful guide offers fresh perspectives on how the process of change begins with basic self-awareness and a commitment to working a daily program.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1592854869"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781592854868"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 136,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=W4k2mAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=W4k2mAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=W4k2mAEACAAJ&dq=isbn:9781592854868&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=W4k2mAEACAAJ&dq=isbn:9781592854868&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/12_Stupid_Things_That_Mess_Up_Recovery.html?hl=&id=W4k2mAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=W4k2mAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "He then provides tools for working through these problems in daily life. This useful guide offers fresh perspectives on how the process of change begins with basic self-awareness and a commitment to working a daily program."
+   }
+  }
+ ]
+}

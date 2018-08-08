@@ -1,0 +1,76 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "xs_4mwEACAAJ",
+   "etag": "uPfiKP5/K2Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xs_4mwEACAAJ",
+   "volumeInfo": {
+    "title": "Flipping Your Conviction",
+    "subtitle": "State Post-Conviction Relief for the Pro Se Prisoner",
+    "authors": [
+     "Ivan Denison"
+    ],
+    "publisher": "Createspace Independent Pub",
+    "publishedDate": "2013-04-26",
+    "description": "499 pages focused on State Post Conviction Relief which is a specific area that is not addressed by other books. Like no other, this book has a multitude of forms and sample filings that is a must have for every pro se prisoner.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1484084934"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781484084939"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 508,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xs_4mwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xs_4mwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xs_4mwEACAAJ&dq=isbn:9781484084939&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=xs_4mwEACAAJ&dq=isbn:9781484084939&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Flipping_Your_Conviction.html?hl=&id=xs_4mwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xs_4mwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "499 pages focused on State Post Conviction Relief which is a specific area that is not addressed by other books. Like no other, this book has a multitude of forms and sample filings that is a must have for every pro se prisoner."
+   }
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "4timCPDql5IC",
+   "etag": "RramyIkR0X4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4timCPDql5IC",
+   "volumeInfo": {
+    "title": "Easy Spanish Step-By-Step",
+    "authors": [
+     "Barbara Bregstein"
+    ],
+    "publisher": "McGraw Hill Professional",
+    "publishedDate": "2005-11-30",
+    "description": "A proven grammar-based approach that gets you communicating in Spanish with confidence, right away Easy Spanish Step by Step proves that a solid grounding in grammar basics is the key to mastering a second language. Grammatical rules and concepts are clearly explained in order of importance, and more than 300 verbs and key terms are introduced on the basis of frequency. Numerous exercises and engaging readings help learners quickly build their Spanish speaking and comprehension prowess.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071463386"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0071463380"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4timCPDql5IC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4timCPDql5IC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=4timCPDql5IC&dq=isbn:9780071463386&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=4timCPDql5IC&dq=isbn:9780071463386&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Easy_Spanish_Step_By_Step.html?hl=&id=4timCPDql5IC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4timCPDql5IC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A proven grammar-based approach that gets you communicating in Spanish with confidence, right away Easy Spanish Step by Step proves that a solid grounding in grammar basics is the key to mastering a second language."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+  <titleInfo>
+    <title>Exercise for mood and anxiety</title>
+    <subTitle>proven strategies for overcoming depression and enhancing well-being</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Otto, Michael W.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Smits, Jasper A. J.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York, NY</placeTerm>
+    </place>
+    <publisher>Oxford University Press</publisher>
+    <dateIssued>2011</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>235 p. ; 21 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>About this book -- Exercise works for your mood -- Why exercise programs fail -- The forest before the trees : the truth about motivation -- Directing your thoughts for exercise success -- Planning your exercise routine -- The exercise prescription -- Enjoying yourself during exercise -- Rewarding yourself after exercise -- Diversifying your exercise routine -- Extending your achievements : an active and fit life.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Michael W. Otto, Jasper A.J. Smits.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Mood (Psychology)</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Anxiety</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Exercise therapy</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Exercise</topic>
+    <topic>Psychological aspects</topic>
+  </subject>
+  <classification authority="lcc">BF521 .O88296 2011</classification>
+  <classification authority="ddc" edition="22">615.8/2</classification>
+  <identifier type="isbn">9780199791002</identifier>
+  <identifier type="lccn">2011010216</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">110324</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20151230091411.0</recordChangeDate>
+    <recordIdentifier>16705677</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.6 using MARC21slim2MODS3-6.xsl
+				(Revision 1.117 2017/02/14)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780199791002</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

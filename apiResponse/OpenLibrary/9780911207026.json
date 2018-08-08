@@ -1,0 +1,82 @@
+{
+  "ISBN:9780911207026": {
+    "publishers": [
+      {
+        "name": "Olympus Distributing"
+      }
+    ],
+    "pagination": "vi, 307 pages :",
+    "identifiers": {
+      "isbn_13": [
+        "9780911207026"
+      ],
+      "openlibrary": [
+        "OL26333575M"
+      ],
+      "isbn_10": [
+        "0911207023"
+      ],
+      "oclc": [
+        "51933744"
+      ]
+    },
+    "classifications": {
+      "dewey_decimal_class": [
+        "158.1"
+      ],
+      "lc_classifications": [
+        "BT732.5 .T78 2003"
+      ]
+    },
+    "title": "\"Feelings buried alive never die-- \"",
+    "url": "https://openlibrary.org/books/OL26333575M/Feelings_buried_alive_never_die--",
+    "notes": "Includes bibliographical references.",
+    "number_of_pages": 307,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/8012450-S.jpg",
+      "large": "https://covers.openlibrary.org/b/id/8012450-L.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/8012450-M.jpg"
+    },
+    "subjects": [
+      {
+        "url": "https://openlibrary.org/subjects/mental_healing",
+        "name": "Mental healing"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/spiritual_healing",
+        "name": "Spiritual healing"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/emotions",
+        "name": "Emotions"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/personality_and_emotions",
+        "name": "Personality and emotions"
+      }
+    ],
+    "publish_date": "2003",
+    "key": "/books/OL26333575M",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL495133A/Karol_Kuhn_Truman",
+        "name": "Karol Kuhn Truman"
+      }
+    ],
+    "by_statement": "by Karol K. Truman",
+    "publish_places": [
+      {
+        "name": "Phoenix, Ariz"
+      }
+    ],
+    "ebooks": [
+      {
+        "checkedout": true,
+        "formats": {},
+        "preview_url": "https://archive.org/details/feelingsburiedal00karo",
+        "borrow_url": "https://openlibrary.org/books/OL26333575M/Feelings_buried_alive_never_die--/borrow",
+        "availability": "borrow"
+      }
+    ]
+  }
+}

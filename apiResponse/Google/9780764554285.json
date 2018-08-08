@@ -1,0 +1,75 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "EiV4OQAACAAJ",
+   "etag": "em9cEBG6+FU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EiV4OQAACAAJ",
+   "volumeInfo": {
+    "title": "Haircutting For Dummies",
+    "authors": [
+     "J. Elaine Spear"
+    ],
+    "publisher": "For Dummies",
+    "publishedDate": "2002-08-29",
+    "description": "Want to cut hair but think you don’t have the talent? If you’ve ever dreamed of becoming a painter, a sculptor, or a home decorator, you can cut hair. If you love sewing, drawing, or craft projects, you can cut hair. This book is designed to help you discover your inner artist, easily enhancing your loved one’s hairstyles while trimming big bucks off your family budget. Haircutting For Dummies is for people who want to cut their family and friends' hair, as well as those who are entering the field of cosmetology. Cutting hair at home will allow you to save money, be creative, and do something nice for your loved ones. If you’re looking to become a licensed stylist, this book will show you how to do simple trims and styles while giving your own creativity room to roam. You’ll see how to: Prepare men’s and women’s hair for cutting Create short, mid-length, and long styles Choose and care for your cutting tools Apply advanced haircutting techniques Seek a career in cutting hair In this easy-to-follow guide, you’ll find step-by-step instructions for the latest short, medium, and long hairstyles as well as more involved techniques such as notching and texturing. You get plenty of expert advice in using your tools, following lengths and angles, and creating show-stopping styles, as well as proven guidance in how to: Cut and style straight, curly, or kinky hair Give the perfect shampoo Judge the texture, strength, and health of hair Handle bangs, layers, and sliced hair Use a blow dryer, curling iron, and flat iron Pump up the volume and fight the frizzies Win your family’s and friends’ haircutting trust Featuring detailed illustrations and model shots, tips on maintaining your own haircut between salon appointments, and special advice on cutting children’s hair, Haircutting For Dummies will have you achieving salon- or barbershop-quality results on all types of hair!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "076455428X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780764554285"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 360,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EiV4OQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EiV4OQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=EiV4OQAACAAJ&dq=isbn:9780764554285&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=EiV4OQAACAAJ&dq=isbn:9780764554285&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Haircutting_For_Dummies.html?hl=&id=EiV4OQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EiV4OQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "If you love sewing, drawing, or craft projects, you can cut hair. This book is designed to help you discover your inner artist, easily enhancing your loved one’s hairstyles while trimming big bucks off your family budget."
+   }
+  }
+ ]
+}

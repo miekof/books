@@ -1,0 +1,90 @@
+{
+  "ISBN:9781569243138": {
+    "publishers": [
+      {
+        "name": "Marlowe & Co."
+      }
+    ],
+    "pagination": "p. cm.",
+    "subtitle": "an essential guide to getting clean from CM addiction",
+    "title": "Overcoming crystal meth addiction",
+    "url": "https://openlibrary.org/books/OL17889346M/Overcoming_crystal_meth_addiction",
+    "classifications": {
+      "dewey_decimal_class": [
+        "616.86/406"
+      ],
+      "lc_classifications": [
+        "RC568.A45 L44 2006"
+      ]
+    },
+    "notes": "Includes bibliographical references and index.",
+    "identifiers": {
+      "lccn": [
+        "2006018149"
+      ],
+      "openlibrary": [
+        "OL17889346M"
+      ],
+      "isbn_10": [
+        "1569243131"
+      ],
+      "goodreads": [
+        "267114"
+      ]
+    },
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/7337573-S.jpg",
+      "large": "https://covers.openlibrary.org/b/id/7337573-L.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/7337573-M.jpg"
+    },
+    "subjects": [
+      {
+        "url": "https://openlibrary.org/subjects/in_library",
+        "name": "In library"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/drug_abuse",
+        "name": "Drug abuse"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/patients",
+        "name": "Patients"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/treatment",
+        "name": "Treatment"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/methamphetamine_abuse",
+        "name": "Methamphetamine abuse"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/prevention",
+        "name": "Prevention"
+      }
+    ],
+    "publish_date": "2006",
+    "key": "/books/OL17889346M",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL3065007A/Steven_J._Lee",
+        "name": "Steven J. Lee"
+      }
+    ],
+    "by_statement": "Steven J. Lee ; preface by Marc Galanter.",
+    "publish_places": [
+      {
+        "name": "New York"
+      }
+    ],
+    "ebooks": [
+      {
+        "checkedout": true,
+        "formats": {},
+        "preview_url": "https://archive.org/details/overcomingcrysta00lees",
+        "borrow_url": "https://openlibrary.org/books/OL17889346M/Overcoming_crystal_meth_addiction/borrow",
+        "availability": "borrow"
+      }
+    ]
+  }
+}

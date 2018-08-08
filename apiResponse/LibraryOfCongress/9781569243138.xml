@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+  <titleInfo>
+    <title>Overcoming crystal meth addiction</title>
+    <subTitle>an essential guide to getting clean</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Lee, Steven J.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Marlowe &amp; Co.</publisher>
+    <dateIssued>c2006</dateIssued>
+    <dateIssued encoding="marc">2006</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xiii, 335 p. : ill. ; 23 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>pt. 1. Understanding crystal methamphetamine : getting to know Tina up close and personal -- 1. Blue meth, super ice, crank, Tina, chicken feed : a short history of crystal methamphetamine -- 2. What exactly is crystal methamphetamine? -- 3. How is crystal made? -- pt. 2. Understanding addiction : what is it and do you have it? -- 4. Medical disease or weak personality? : what is addiction? -- 5. What is all the hype about crystal? : is it really more addictive than other drugs? -- 6. Do you think you may be addicted? -- 7. Taking a look at crystal in your life : is Tina just an occasional visitor or has she become the houseguest who just won't leave? -- pt. 3. How can you handle crystal in your life? -- 8. What if you use crystal and you don't want to stop? -- 9. Stopping crystal : when you feel that you have lost control of your life and you want it back -- pt. 4. Now that you have stopped using, how do you stay clean? -- 10. Relapse prevention : working on staying clean -- 11. Things you can do to beat crystal addiction : some specific strategies -- pt. 5. Other important areas in your life that can keep you clean and sober -- 12. Self-esteem : how much do you really like yourself? -- 13. Social anxiety : when it's difficult to feel comfortable around other people -- 14. Depression : when nothing feels good : is this the way life is supposed to feel? -- 15. Work : when you need to keep your job performance and productivity high -- 16. Attention-deficit/hyperactivity disorder : you're not lazy or depressed, so why do you still have trouble getting things done? -- 17. Life is a balancing act : stress management -- 18. Who is in your social circle? : dealing with loneliness and finding a sober group of friends -- 19. Crystal and sex : if sex on crystal is so amazing, is it possible to enjoy sex without It? -- pt. 6. Special topics -- 20. What if you slip? : does it mean failure? -- 21. You are who you are, and that's ok : acceptance, the cornerstone of staying clean -- 22. Crystal and HIV : how do they affect each other? -- 23. What do you do if someone you know has a problem with crystal? -- Appendix 1. Abstinence-based treatment and general information resources -- Appendix 2. Harm-reduction resources -- Glossary.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Steven J. Lee.</note>
+  <note type="bibliography">Includes bibliographical references (p. [312]-325) and index.</note>
+  <subject authority="lcsh">
+    <topic>Methamphetamine abuse</topic>
+    <topic>Prevention</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Drug abuse</topic>
+    <topic>Patients</topic>
+    <topic>Treatment</topic>
+  </subject>
+  <classification authority="lcc">RC568.A45 L44 2006</classification>
+  <classification authority="ddc" edition="22">616.86/406</classification>
+  <location>
+    <url displayLabel="Table of contents" usage="primary display">http://www.loc.gov/catdir/toc/ecip0614/2006018149.html</url>
+  </location>
+  <location>
+    <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy0712/2006018149-d.html</url>
+  </location>
+  <location>
+    <url displayLabel="Contributor biographical information">http://www.loc.gov/catdir/enhancements/fy0833/2006018149-b.html</url>
+  </location>
+  <identifier type="isbn">1569243131 (pbk.)</identifier>
+  <identifier type="isbn">9781569243138 (pbk.)</identifier>
+  <identifier type="lccn">2006018149</identifier>
+  <identifier type="oclc">ocm70045878</identifier>
+  <identifier type="oclc">70045878</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy0712/2006018149-d.html</url>
+    </location>
+  </relatedItem>
+  <relatedItem>
+    <location>
+      <url displayLabel="Contributor biographical information">http://www.loc.gov/catdir/enhancements/fy0833/2006018149-b.html</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">060602</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20080826165728.0</recordChangeDate>
+    <recordIdentifier>14398541</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.6 using MARC21slim2MODS3-6.xsl
+				(Revision 1.117 2017/02/14)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9781569243138</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

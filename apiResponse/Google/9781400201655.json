@@ -1,0 +1,80 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "UFKltAEACAAJ",
+   "etag": "ucYNhNGbc9s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UFKltAEACAAJ",
+   "volumeInfo": {
+    "title": "Girl, Wash Your Face",
+    "subtitle": "Stop Believing the Lies about Who You Are So You Can Become Who You Were Meant to Be",
+    "authors": [
+     "Rachel Hollis"
+    ],
+    "publisher": "Nelson Books",
+    "publishedDate": "2018-02-06",
+    "description": "With wry wit and hard-earned wisdom, popular online personality and founder of TheChicSite.com founder Rachel Hollis helps readers break free from the lies keeping them from the joy-filled and exuberant life they are meant to have. Founder of the lifestyle website TheChicSite.com and CEO of her own media company, Chic Media, Rachel Hollis has created an online fan base of hundreds of thousands of fans by sharing tips for living a better life while fearlessly revealing the messiness of her own. Now comes her highly anticipated first book featuring her signature combination of honesty, humor, and direct, no-nonsense advice. Each chapter of Girl, Wash Your Face begins with a specific lie Hollis once believed that left her feeling overwhelmed, unworthy, or ready to give up. As a working mother, a former foster parent, and a woman who has dealt with insecurities about her body and relationships, she speaks with the insight and kindness of a BFF, helping women unpack the limiting mind-sets that destroy their self-confidence and keep them from moving forward. From her temporary obsession with marrying Matt Damon to a daydream involving hypnotic iguanas to her son's request that she buy a necklace to \"be like the other moms,\" Hollis holds nothing back. With unflinching faith and tenacity, Hollis spurs other women to live with passion and hustle and to awaken their slumbering goals.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1400201659"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781400201655"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "FAMILY & RELATIONSHIPS"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UFKltAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UFKltAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=UFKltAEACAAJ&dq=isbn:9781400201655&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=UFKltAEACAAJ&dq=isbn:9781400201655&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Girl_Wash_Your_Face.html?hl=&id=UFKltAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UFKltAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Each chapter of Girl, Wash Your Face begins with a specific lie Hollis once believed that left her feeling overwhelmed, unworthy, or ready to give up."
+   }
+  }
+ ]
+}

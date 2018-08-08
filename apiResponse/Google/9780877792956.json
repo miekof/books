@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "tr0kswEACAAJ",
+   "etag": "qlhu17b9GI4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tr0kswEACAAJ",
+   "volumeInfo": {
+    "title": "The Merriam-Webster Dictionary",
+    "authors": [
+     "Merriam-Webster"
+    ],
+    "publishedDate": "2016-01-01",
+    "description": "Based on Merriam-Webster's Collegiate Dictionary, 11th edition 70,000 definitions 2,000 new words Expanded back matter sections: Confused and Misused Words English Word Roots - Great for preparing standardized tests Irregular English Verbs - Great for ESL Basic English Grammar Handbook of Style, including Documentation of Sources Guide to Common Verb Collocations - Essential for ESL NEW: An Overview of the Internet",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "087779295X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780877792956"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 960,
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tr0kswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tr0kswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=tr0kswEACAAJ&dq=isbn:9780877792956&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=tr0kswEACAAJ&dq=isbn:9780877792956&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Merriam_Webster_Dictionary.html?hl=&id=tr0kswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tr0kswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Based on Merriam-Webster&#39;s Collegiate Dictionary, 11th edition 70,000 definitions 2,000 new words Expanded back matter sections: Confused and Misused Words English Word Roots - Great for preparing standardized tests Irregular English Verbs  ..."
+   }
+  }
+ ]
+}
